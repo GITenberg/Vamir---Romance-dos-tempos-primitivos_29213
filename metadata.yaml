@@ -32,6 +32,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32612
     wikipedia: http://en.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29213#Vamir---Romance-dos-tempos-primitivos
 gutenberg_issued: '2009-06-24'
 gutenberg_type: Text
 identifiers:

@@ -1,0 +1,47 @@
+_repo: Vamir---Romance-dos-tempos-primitivos_29213
+_version: 0.1.0
+alternative_title: Vamireh. Portuguese
+contributor:
+  translator:
+    agent_name: Figueiredo, Cândido de
+    aliases:
+    - Figueiredo, Antonio Candido de
+    - Figueiredo, Antônio Candido de
+    - Figueiredo, António Cândido de
+    - De Figueiredo, Cândido
+    birthdate: 1846
+    deathdate: 1925
+    gutenberg_agent_id: '9395'
+    url: http://www.gutenberg.org/2009/agents/9395
+    wikipedia: http://pt.wikipedia.org/wiki/C%C3%A2ndido_de_Figueiredo
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rosny, J.-H., aîné
+    aliases:
+    - Enacryos
+    - Boëx-Borel, J. H.
+    - Boëx, Joseph-Henri-Honoré
+    - Rosny, J.-H., aine
+    - Boex, Joseph-Henri-Honore
+    birthdate: 1856
+    deathdate: 1940
+    gutenberg_agent_id: '32612'
+    url: http://www.gutenberg.org/2009/agents/32612
+    wikipedia: http://en.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
+description: ''
+gutenberg_issued: '2009-06-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29213'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prehistoric peoples -- Fiction'
+- !lcc 'PQ'
+title: 'Vamiré: Romance dos tempos primitivos'
+url: http://www.gutenberg.org/ebooks/29213
